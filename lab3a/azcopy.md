@@ -8,7 +8,7 @@ Este laboratorio muestra cómo autenticarse en Azure y copiar un archivo CSV a *
 
 - AzCopy instalado en el equipo
 - Acceso a una suscripción de Azure
-- Permisos de escritura en la cuenta de Data Lake
+- Permisos de escritura en la cuenta de Data Lake (Storage Blob Data Contributor)
 - Archivo `sales.csv` disponible en local
 
 ---
