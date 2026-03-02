@@ -5,10 +5,10 @@ from datetime import datetime, timedelta
 import pytz
 from confluent_kafka import Producer
 
-# Configuración
-topic_name = 'eh-transactions'
-bootstrap_servers = SUSTITUIR.servicebus.windows.net:9093'  # Endpoint de Event Hubs
-sasl_password = SUSTITUIR'  # Cadena de conexión SASL
+# Configuración Sustituir @ por el valor de tu configuración
+topic_name = '@'
+bootstrap_servers = '@.servicebus.windows.net:9093'  # Endpoint de Event Hubs
+sasl_password = 'Endpoint=sb://@.servicebus.windows.net/;SharedAccessKeyName=@;SharedAccessKey=@'  # Cadena de conexión SASL
 
 # Configuración del productor de Kafka para Azure Event Hubs
 conf = {
@@ -150,7 +150,7 @@ status_counters = {
 
 # Enviar transacciones a Event Hubs
 try:
-    for _ in range(random.randint(50, 2000)):  # Envía 50-200 transacciones
+    for _ in range(random.randint(1, 5)):  # Envía 50-200 transacciones
         transaction = generate_transaction()
         producer.produce(
             topic=topic_name,  # Nombre del Event Hub
