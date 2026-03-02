@@ -1,9 +1,10 @@
 from confluent_kafka import Consumer, KafkaError
 import json
 
-topic_name = 'eh-transactions'
-bootstrap_servers = 'SUSTITUIR.servicebus.windows.net:9093'  # Endpoint de Event Hubs
-sasl_password = 'SUSTITUIR'  # Cadena de conexión SASL
+# Configuración Sustituir @ por el valor de tu configuración
+topic_name = '@'
+bootstrap_servers = '@.servicebus.windows.net:9093'  # Endpoint de Event Hubs
+sasl_password = 'Endpoint=sb://@.servicebus.windows.net/;SharedAccessKeyName=@;SharedAccessKey=@'  # Cadena de conexión SASL
 
 # Configuración del consumidor de Kafka para Azure Event Hubs
 config = {
