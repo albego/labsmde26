@@ -6,11 +6,10 @@ Este laboratorio muestra cómo autenticarse en Azure y copiar un archivo CSV a *
 
 ## 🧰 Requisitos previos
 
-- AzCopy instalado en el equipo
+- AzCopy instalado en el equipo https://learn.microsoft.com/es-es/azure/storage/common/storage-use-azcopy-v10 
 - Acceso a una suscripción de Azure
 - Permisos de escritura en la cuenta de Data Lake (Storage Blob Data Contributor)
-- Archivo `sales.csv` disponible en local
-
+- Archivo/s disponible en local. 
 ---
 
 ## 🔹 Paso 1: Iniciar sesión en Azure con AzCopy
