@@ -1,0 +1,22 @@
+{
+    "country": "Spain",
+    "city": "Madrid",
+    "date": "2026-02-11",
+    "temperature": 22,
+    "humidity": 45,
+    "windSpeed": 15,
+    "windDirection": "SW",
+    "precipitation": 0,
+    "cloudCover": 10,
+    "visibility": 10,
+    "pressure": 1018,
+    "dewPoint": 9,
+    "uvIndex": 8,
+    "sunrise": "06:58",
+    "sunset": "21:10",
+    "moonrise": "22:15",
+    "moonset": "07:45",
+    "moonPhase": "Waning Gibbous",
+    "conditions": "Sunny",
+    "icon": "clear-day"
+}
