@@ -6,3 +6,5 @@ https://stalandingdevneu01.blob.core.windows.net/landing?sp=rl&st=2026-03-09T20:
 ## Copy Bronze -> ADF
 ## Bronze To Silver -> Notebook
 ## Silver To Gold -> Notebook
+## Orchestrator with notifications -> ADF
+## Scheduler -> ADF
