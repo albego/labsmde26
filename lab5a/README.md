@@ -8,3 +8,13 @@ https://stalandingdevneu01.blob.core.windows.net/landing?sp=rl&st=2026-03-09T20:
 ## Silver To Gold -> Notebook
 ## Orchestrator with notifications -> ADF
 ## Scheduler -> ADF
+## Lakehouse - > SQL Endpoint -> Query and Visual Query
+## Lakehouse - > SQL Endpoint -> Semantic Model
+
+| Drag from fact_sale | To table | To column |
+| :--- | :--- | :--- |
+| StockItemKey | dimension_stock_item | StockItemKey |
+| SalespersonKey | dimension_employee | EmployeeKey |
+| CustomerKey | dimension_customer | CustomerKey |
+| InvoiceDateKey | dimension_date | Date |
+| CityKey | dimension_city | CityKey |
