@@ -10,6 +10,7 @@ https://stalandingdevneu01.blob.core.windows.net/landing?sp=rl&st=2026-03-09T20:
 ## Scheduler -> ADF
 ## Lakehouse - > SQL Endpoint -> Query and Visual Query
 ## Lakehouse - > SQL Endpoint -> Semantic Model
+## PowerBI -> Auto create report
 
 | Drag from fact_sale | To table | To column |
 | :--- | :--- | :--- |
