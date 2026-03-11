@@ -10,6 +10,7 @@ https://stalandingdevneu01.dfs.core.windows.net/landing?sp=rl&st=2026-03-09T20:1
 ## Orchestrator with notifications -> ADF
 ## Scheduler -> ADF
 ## Lakehouse - > SQL Endpoint -> Query and Visual Query
+## Lakehouse - > SQL Endpoint -> SSMS / VSCode
 ## Lakehouse - > SQL Endpoint -> Semantic Model
 ## PowerBI -> Auto create report
 
