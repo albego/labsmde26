@@ -1,3 +1,5 @@
+## Calculadora Fabric
+https://www.microsoft.com/en-us/microsoft-fabric/capacity-estimator
 
 ### Landing Data
 
