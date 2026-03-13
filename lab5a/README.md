@@ -11,7 +11,7 @@ https://stalandingdevneu01.dfs.core.windows.net/landing?sp=rl&st=2026-03-09T20:1
 ## Scheduler -> ADF
 ## Lakehouse - > SQL Endpoint -> Query and Visual Query
 ## Lakehouse - > SQL Endpoint -> SSMS / VSCode
-## Lakehouse - > SQL Endpoint -> Semantic Model
+## Lakehouse - > SQL Endpoint -> Semantic Model (relations)
 ## PowerBI -> Auto create report
 
 | Drag from fact_sale | To table | To column |
