@@ -1,3 +1,0 @@
-8xksVpZzW7UZdrCVdvwDJvHzvUDBnk84S+AEhGMpjHQ=
-
-Endpoint=sb://aehalbegodevneu01.servicebus.windows.net/;SharedAccessKeyName=sendListen;SharedAccessKey=8xksVpZzW7UZdrCVdvwDJvHzvUDBnk84S+AEhGMpjHQ=;EntityPath=iot
